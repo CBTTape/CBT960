@@ -1,0 +1,32 @@
+2023-08-06 08:42:48.620953 - Initialized conversion of CBT960
+2023-08-06 08:42:48.965537 - Received CBT.V505.FILE960.PDS from FILE960.XMI 
+2023-08-06 08:42:48.967942 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:42:48.969167 - Found $$$LIST.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/$$$LIST
+2023-08-06 08:42:48.970154 - Found $$LISTS.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/$$LISTS
+2023-08-06 08:42:48.971069 - Found $$README.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/$$README
+2023-08-06 08:42:48.972037 - Found $$REXXS.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/$$REXXS
+2023-08-06 08:42:48.972985 - Found $INSTALL.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/$INSTALL
+2023-08-06 08:42:48.973955 - Found $XREC.rexx (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/$XREC
+2023-08-06 08:42:48.974835 - Found @CSI.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@CSI
+2023-08-06 08:42:48.975672 - Found @DB2.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@DB2
+2023-08-06 08:42:48.976585 - Found @FILE960.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@FILE960
+2023-08-06 08:42:48.977449 - Found @ISPF.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@ISPF
+2023-08-06 08:42:48.978574 - Found @MACRO.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@MACRO
+2023-08-06 08:42:48.979617 - Found @MEM.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@MEM
+2023-08-06 08:42:48.980595 - Found @MVS.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@MVS
+2023-08-06 08:42:48.981563 - Found @RACF.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@RACF
+2023-08-06 08:42:48.982477 - Found @SDSF.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@SDSF
+2023-08-06 08:42:48.983460 - Found @SMPE.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@SMPE
+2023-08-06 08:42:48.984374 - Found @SMS.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@SMS
+2023-08-06 08:42:48.985327 - Found @SOCK.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@SOCK
+2023-08-06 08:42:48.986239 - Found @USS.txt (text/plain) in CBT.V505.FILE960.PDS, moved to PDS/@USS
+2023-08-06 08:42:49.022628 - Found CNTL.xmi (application/xmit) in CBT.V505.FILE960.PDS
+2023-08-06 08:42:49.031011   - Received to CBT960/FILE960.CNTL
+2023-08-06 08:42:49.795023 - Found EXEC.xmi (application/xmit) in CBT.V505.FILE960.PDS
+2023-08-06 08:42:49.859551   - Received to CBT960/FILE960.EXEC
+2023-08-06 08:42:49.876163 - Found ISPGLIB.xmi (application/xmit) in CBT.V505.FILE960.PDS
+2023-08-06 08:42:49.880527   - Received to CBT960/FILE960.ISPGLIB
+2023-08-06 08:42:49.885786 - Found ISPLLIB.xmi (application/xmit) in CBT.V505.FILE960.PDS
+2023-08-06 08:42:49.892375   - Received RECFM=U data, stored XMIT file as CBT960/ISPLLIB.xmi
+2023-08-06 08:42:50.005417 - Found ISPPLIB.xmi (application/xmit) in CBT.V505.FILE960.PDS
+2023-08-06 08:42:50.028434   - Received to CBT960/FILE960.ISPPLIB
